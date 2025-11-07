@@ -1,8 +1,8 @@
-#Demo Financial User Management
+# Demo Financial User Management
 
-Description
+## Description
 
-#**User Management**
+# **User Management**
 This is User API Endpoints: http://dmoney.roadtocareer.net/api-docs/user
 http://dmoney.roadtocareer.net/user/login
 By this demo api user can login as a admin "Admin email: admin@roadtocareer.net / Pass: 1234"
@@ -35,11 +35,12 @@ Hit following command:
 npm i
 npm test
 Report will be generated in Reports folder!
-#**Test Report**
+
+## **Test Report**
 
 <img width="1186" height="884" alt="tstng" src="https://github.com/user-attachments/assets/22bf06e4-fc55-430b-97b4-39298bb4b13a" />
 
-#**Test case**
+## **Test case**
 https://docs.google.com/spreadsheets/d/1RRZFv8y6hmMONU2sUfWnGFWm9naNmGYv/edit?usp=sharing&ouid=113180828003064515171&rtpof=true&sd=true
 Bug Report
 https://docs.google.com/spreadsheets/d/1WD2CVKjk6mkh68de5A3eD_9eIpsrB6Lp/edit?usp=sharing&ouid=113180828003064515171&rtpof=true&sd=true
