@@ -1,5 +1,6 @@
 **Demo Financial User Management**
 Description
+
 **User Management**
 This is User API Endpoints: http://dmoney.roadtocareer.net/api-docs/user
 http://dmoney.roadtocareer.net/user/login
@@ -23,7 +24,6 @@ By this demo API we can withdraw money customer to agent
 http://dmoney.roadtocareer.net/payment
 By this demo API we can pay marchent
 
-**Technology I used:**
 Postman
 Newmman
 Report: newman-html-extra
